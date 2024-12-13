@@ -1,12 +1,14 @@
 
 import './App.css'
-import Bootcom from "./Bootcom"
+// import Bootcom from "./Bootcom"
+import Task from "./Task"
 function App() {
   
 
   return (
     <>
-<Bootcom/>
+{/* <Bootcom/> */}
+<Task/>
       </>
   )
 }
